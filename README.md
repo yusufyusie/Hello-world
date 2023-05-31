@@ -51,9 +51,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Hello Microverse Page]**
+- **[Html and css]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +117,7 @@ You can deploy this project using:
 
 👤 **Yesuf Fenta**
 
-- GitHub: [@githubYesuf](https://github.com/yesuf023)
+- GitHub: [@github](https://github.com/yesuf023)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yesufenta/)
 
 👤
