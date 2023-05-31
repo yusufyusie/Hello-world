@@ -118,7 +118,7 @@ You can deploy this project using:
 
 👤 **Yesuf Fenta**
 
-- GitHub: [@githubhandle](https://github.com/yesuf023)
+- GitHub: [@githubYesuf](https://github.com/yesuf023)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yesufenta/)
 
 👤
